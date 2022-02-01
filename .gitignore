@@ -1,0 +1,10 @@
+# ignore environment directories
+venv/
+.vscode/
+.idea
+
+# Ignore cache of module importing
+__pycache__/
+
+# Want sensitive data files
+email_config.py
